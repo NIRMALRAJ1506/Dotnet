@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\reservations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\reservations\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\reservations\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\reservations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\reservations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\models\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|c:\\users\\nirmal raj\\source\\repos\\apiconsume\\apiconsume\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027457C3-E16B-487B-9FCA-8E26B5DA0EEB}|APIConsume\\APIConsume.csproj|solutionrelative:apiconsume\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T10:08:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Models\\ReservationViewModel.cs",
+              "RelativeDocumentMoniker": "APIConsume\\Models\\ReservationViewModel.cs",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Models\\ReservationViewModel.cs",
+              "RelativeToolTip": "APIConsume\\Models\\ReservationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:42:32.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "APIConsume\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "APIConsume\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:41:49.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Program.cs",
+              "RelativeDocumentMoniker": "APIConsume\\Program.cs",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Program.cs",
+              "RelativeToolTip": "APIConsume\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:40:55.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Details.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Reservations\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Details.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Reservations\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:49:30.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "APIConsume\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "APIConsume\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:43:20.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Create.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Reservations\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Create.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Reservations\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:48:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Index.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Reservations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Index.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Reservations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:47:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "APIConsume\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "APIConsume\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T08:44:27.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Edit.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Reservations\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Edit.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Reservations\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T09:47:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Delete.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Reservations\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Reservations\\Delete.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Reservations\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T09:48:00.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "APIConsume\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nirmal Raj\\source\\repos\\APIConsume\\APIConsume\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "APIConsume\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T08:45:51.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

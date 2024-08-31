@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ReservationViewModel>
+
+<h2>Reservations</h2>
+
+<p>
+    <a asp-action="Create">Create New Reservation</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Start Location</th>
+            <th>End Location</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reservation in Model)
+        {
+            <tr>
+                <td>@reservation.Id</td>
+                <td>@reservation.Name</td>
+                <td>@reservation.StartLocation</td>
+                <td>@reservation.EndLocation</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@reservation.Id">Details</a> |
+                    <a asp-action="Edit" asp-route-id="@reservation.Id">Edit</a> |
+                    <form asp-action="Delete" asp-route-id="@reservation.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

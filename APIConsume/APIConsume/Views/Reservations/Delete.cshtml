@@ -1,0 +1,26 @@
+﻿@model ReservationViewModel
+
+<h2>Delete Reservation</h2>
+
+<h3>Are you sure you want to delete this reservation?</h3>
+
+<div>
+    <h4>Reservation</h4>
+    <div>
+        <dl class="row">
+            <dt class="col-sm-2">Name</dt>
+            <dd class="col-sm-10">@Model.Name</dd>
+            <dt class="col-sm-2">Start Location</dt>
+            <dd class="col-sm-10">@Model.StartLocation</dd>
+            <dt class="col-sm-2">End Location</dt>
+            <dd class="col-sm-10">@Model.EndLocation</dd>
+        </dl>
+    </div>
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>
